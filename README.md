@@ -1,2 +1,4 @@
 # hello-world
-beginner
+whats up !
+
+my name is Abdullahi and i love python! 
